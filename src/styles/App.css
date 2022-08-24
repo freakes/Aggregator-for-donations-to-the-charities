@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  background-color: aliceblue;
+}
+
+.navbar {
+  height: 80px;
+}
+
+.header__title {
+  text-align: left;
+  font-size: 20px;
+}
+
+header {
+  background-color: deepskyblue;
+  font-weight: bold;
+}
+
+.charity__list {
+  margin-top: 30px;
+  align-items: center;
+  padding-bottom: 100px;
+}
+
+.charity__item {
+  text-align: left;
+  padding: 5px 0;
+}
+
+.charity__body {
+  padding-top: 100px;
+  font-size: large;
+}
+
